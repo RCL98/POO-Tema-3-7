@@ -1,0 +1,48 @@
+Harta Nr.1 are regiunile: 
+Regiunea America are orasele: 
+Oras: New York
+Oras id: 0
+Coordonate oras: (45.34, 31.32) 
+
+Oras: Washington DC
+Oras id: 1
+Coordonate oras: (31.23, 29.45) 
+
+Oras: New Jersey
+Oras id: 2
+Coordonate oras: (37.45, 35.56) 
+
+Oras: Chicago
+Oras id: 3
+Coordonate oras: (46.67, 15.32) 
+
+Oras: Huston
+Oras id: 4
+Coordonate oras: (14.56, 1.45) 
+
+Oras: Los Angeles
+Oras id: 5
+Coordonate oras: (12.34, -25.45) 
+
+Oras: Philadelphia
+Oras id: 6
+Coordonate oras: (29.45, 14.56) 
+
+Oras: Phoenix
+Oras id: 7
+Coordonate oras: (15.45, -7.42) 
+
+Oras: Atlanta
+Oras id: 8
+Coordonate oras: (24.42, 10.34) 
+
+Drumurile + distante sunt: 
+          New York:  Washington DC-14.2334,     New Jersey-8.9571,        Chicago-16.0552,         Huston-42.8909,    Los Angeles-65.6645,   Philadelphia-23.0952,        Phoenix-48.9306,        Atlanta-29.6278, 
+     Washington DC:       New York-14.2334,     New Jersey-8.71897,        Chicago-20.9297,         Huston-32.5866,    Los Angeles-58.059,   Philadelphia-14.996,        Phoenix-40.1049,        Atlanta-20.2871, 
+        New Jersey:       New York-8.9571,  Washington DC-8.71897,        Chicago-22.2411,         Huston-41.0785,    Los Angeles-65.9752,   Philadelphia-22.4722,        Phoenix-48.2833,        Atlanta-28.3871, 
+           Chicago:       New York-16.0552,  Washington DC-20.9297,     New Jersey-22.2411,         Huston-34.9775,    Los Angeles-53.2986,   Philadelphia-17.2368,        Phoenix-38.6238,        Atlanta-22.8005, 
+            Huston:       New York-42.8909,  Washington DC-32.5866,     New Jersey-41.0785,        Chicago-34.9775,    Los Angeles-26.9915,   Philadelphia-19.839,        Phoenix-8.91454,        Atlanta-13.276, 
+       Los Angeles:       New York-65.6645,  Washington DC-58.059,     New Jersey-65.9752,        Chicago-53.2986,         Huston-26.9915,   Philadelphia-43.515,        Phoenix-18.2963,        Atlanta-37.7737, 
+      Philadelphia:       New York-23.0952,  Washington DC-14.996,     New Jersey-22.4722,        Chicago-17.2368,         Huston-19.839,    Los Angeles-43.515,        Phoenix-26.0599,        Atlanta-6.56577, 
+           Phoenix:       New York-48.9306,  Washington DC-40.1049,     New Jersey-48.2833,        Chicago-38.6238,         Huston-8.91454,    Los Angeles-18.2963,   Philadelphia-26.0599,        Atlanta-19.8967, 
+           Atlanta:       New York-29.6278,  Washington DC-20.2871,     New Jersey-28.3871,        Chicago-22.8005,         Huston-13.276,    Los Angeles-37.7737,   Philadelphia-6.56577,        Phoenix-19.8967, 

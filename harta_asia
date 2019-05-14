@@ -1,0 +1,31 @@
+
+Asia
+9
+Beijing
+23.23
+31.31
+Seoul
+27.23
+29.34
+Hanoi
+21.34
+50.45
+Bangkok
+19.34
+53.31
+New Delhi
+10.43
+49.34
+Kabul
+7.31
+45.43
+Tehran
+3.31
+40.31
+Baghdad
+-3.34
+36.31
+Ankara
+-5.32
+32.45
+Seoul-Beijing, Beijing-Hanoi, Hanoi-Bangkok, Bangkok-New Delhi, New Delhi-Kabul, Kabul-Beijing, Kabul-Tehran, Tehran-Baghdad, Baghdad-Ankara
